@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Showing 1 - 5 of 5 items_replace-2x img_4353aa</name>
+   <tag></tag>
+   <elementGuidId>a0199c4a-2473-4f7e-ac82-b2e8a5861ad2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.product_img_link > img.replace-2x.img-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Printed Dress']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>584eff79-2abb-4292-9e1e-31942b4627fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>replace-2x img-responsive</value>
+      <webElementGuid>cd4b8f83-7af5-46a6-8a17-63de8801b115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://automationpractice.com/img/p/8/8-home_default.jpg</value>
+      <webElementGuid>a6e1a955-6366-48f4-97e0-97475cf04b50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Printed Dress</value>
+      <webElementGuid>3008245a-806b-43db-9263-7d940b7df22a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Printed Dress</value>
+      <webElementGuid>64e4b7fe-e904-470a-8021-fae10d7e117a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>250</value>
+      <webElementGuid>2c2f8151-f508-4a5c-8cab-81df7433ff7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>250</value>
+      <webElementGuid>37459a19-7d1b-4b88-9fdf-2d75c3531032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>image</value>
+      <webElementGuid>20f03762-acf5-4238-bcdf-c9276271c58e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;center_column&quot;)/ul[@class=&quot;product_list grid row&quot;]/li[@class=&quot;ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line&quot;]/div[@class=&quot;product-container&quot;]/div[@class=&quot;left-block&quot;]/div[@class=&quot;product-image-container&quot;]/a[@class=&quot;product_img_link&quot;]/img[@class=&quot;replace-2x img-responsive&quot;]</value>
+      <webElementGuid>1a91a7ba-4fe5-4fb0-ac3c-049d26dd0736</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='center_column']/ul/li/div/div/div/a/img</value>
+      <webElementGuid>4223e55e-4dd6-4b54-9e02-be7163165465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Printed Dress']</value>
+      <webElementGuid>8d661d36-cc6e-46a3-933d-9e668b032d10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div/a/img</value>
+      <webElementGuid>55edc538-1ec6-4007-8fab-b0107f93d936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://automationpractice.com/img/p/8/8-home_default.jpg' and @alt = 'Printed Dress' and @title = 'Printed Dress']</value>
+      <webElementGuid>2c8fb9ec-155f-4248-b8b8-c0d97df826ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

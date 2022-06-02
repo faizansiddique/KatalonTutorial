@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Maintenance</name>
+   <tag></tag>
+   <elementGuidId>afff20ae-df3c-47b3-a002-0b96423d80fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_maintenance_purgeEmployee']/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_maintenance_purgeEmployee > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>02c592bc-1dcc-43a0-b76c-5ecb50d24989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maintenance</value>
+      <webElementGuid>0cf18dca-a46b-4227-8302-dfd7e7daa58b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainMenuFirstLevelUnorderedList&quot;)/li[@class=&quot;main-menu-first-level-list-item&quot;]/a[@id=&quot;menu_maintenance_purgeEmployee&quot;]/b[1]</value>
+      <webElementGuid>2dfb3079-2444-490f-b6e2-b56f8b96c3fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='menu_maintenance_purgeEmployee']/b</value>
+      <webElementGuid>b24d2a52-2eab-4722-ab86-769920458f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Directory'])[1]/following::b[1]</value>
+      <webElementGuid>7a6b2547-4a4e-4847-b608-aeb0d0c058e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::b[2]</value>
+      <webElementGuid>3e5ed3c2-14d7-48a4-921f-ed33b2863bc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Records'])[2]/preceding::b[1]</value>
+      <webElementGuid>161625a9-3d80-4319-b56b-ef7218f42c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Candidate Records'])[1]/preceding::b[1]</value>
+      <webElementGuid>f177f67b-7e4d-43d2-acd4-2c83380d47ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Maintenance']/parent::*</value>
+      <webElementGuid>9adf0f0c-0c23-49c8-8cda-7fc32a743fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/a/b</value>
+      <webElementGuid>cf97971d-4b75-4f36-88fe-3d7af2ddcee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Maintenance' or . = 'Maintenance')]</value>
+      <webElementGuid>0c98b1bf-da45-4c96-9e9c-548c6a50ee52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
